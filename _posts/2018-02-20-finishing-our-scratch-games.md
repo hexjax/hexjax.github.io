@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>finishing our scratch games.</td>
     <td>Date</td>
-    <td>30/1/18</td>
+    <td>28/1/18</td>
   </tr>
 </table>
 
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Just worked faster overall.</td>
+    <td>Just work faster overall.</td>
     <td></td>
   </tr>
 </table>
